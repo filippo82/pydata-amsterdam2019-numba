@@ -1,0 +1,14 @@
+name: numba
+dependencies:
+  - python=3.7
+  - numpy
+  - numba
+  - cupy
+  - scipy
+  - pip
+  - pylint
+  - jupyter
+  - ipykernel
+  - matplotlib
+  - pip:
+      - cupy-cuda100
